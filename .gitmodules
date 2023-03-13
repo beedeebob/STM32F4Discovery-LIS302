@@ -1,0 +1,3 @@
+[submodule "Common"]
+	path = Common
+	url = E:\\Documents\\Projects\\stm32f4-discovery\\LIS302\\Common
